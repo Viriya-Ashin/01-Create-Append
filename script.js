@@ -14,8 +14,8 @@ var li3 = document.createElement("li");
 var li4 = document.createElement("li");
 
 h1El.textContent = "Welcome to my page";
-kittenEl.textContent = "This is my kitten 🐱.";
-nameEl.textContent = "His name is Jax.";
+kittenEl.textContent = "This is my cute cat 🐱.";
+nameEl.textContent = "His name is Taddy.";
 favoriteEl.textContent = "My favorite foods are:";
 li1.textContent = "Cherry 🍒";
 li2.textContent = "Noodle 🍜";
